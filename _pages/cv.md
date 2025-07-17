@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+📄 **[Download my CV (PDF)](/files/cv.pdf)**  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
+- **Ph.D. in Urban Ecology** (ongoing)  
+  *Salim Ali Centre for Ornithology and Natural History (SACON), India*  
+  Research focus: Urban bird communities, biodiversity & air pollution  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **M.Sc. in Zoology**  
+  *University of Madras, Chennai, India*  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Research Experience
+- **Doctoral Researcher, SACON**  
+  - Studying bird community structure in Indian cities (Coimbatore, Patna, Bhopal, Calicut)  
+  - Investigating air pollution impacts on urban biodiversity  
+  - Exploring Blue-Green Infrastructure (BGI) for urban biodiversity  
+
+- **Consultant, CIMMYT**  
+  - Agrobiodiversity impact assessment on crop residue burning, conservation tillage  
+  - Collaboratove research  
+
+- **Bird-Aircraft Strike Hazard Research**  
+  - Ecological solutions for reducing bird strikes at Indian airfields  
+
+---
+
+## Selected Publications & Outputs
+- *Agroecological impacts of crop residue burning: A qualitative systematic review of direct and inferred evidence* – Science of the Total Environment  
+- Policy briefs on **crop residue burning & biodiversity loss**   
+
+---
+
+## Skills
+- Urban ecology research  
+- Biodiversity monitoring (birds, insects)  
+- Meta-analysis & evidence synthesis  
+- Agroecological research  
+- Scientific writing & policy communication  
+
+---
+
+## Service & Collaboration
+- Collaborative projects with **CIMMYT** and international researchers  
+- Engagement with policy and science communication  
+
