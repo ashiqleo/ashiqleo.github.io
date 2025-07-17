@@ -21,15 +21,14 @@ repository               : "ashiqleo/ashiqleo.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "profile.jpg"    # (we’ll upload this photo)
+  name             : "Ashiq P P"
+  pronouns         : # you can leave blank if not needed
+  bio              : "Ecologist & researcher studying biodiversity, agriculture, and urban ecology."
+  location         : "Coimbatore, India"
+  employer         : "Salim Ali Centre for Ornithology and Natural History (SACON)"
+  uri              : # leave blank unless you have a personal website
+  email            : "your-email@example.com" 
 
   # Academic websites
   academia         : # URL
