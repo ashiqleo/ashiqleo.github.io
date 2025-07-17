@@ -21,7 +21,7 @@ repository               : "ashiqleo/ashiqleo.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "images/profile.jpeg"    # (we’ll upload this photo)
+  avatar           : "images/profile.png"    # (we’ll upload this photo)
   name             : "Ashiq P P"
   pronouns         : # you can leave blank if not needed
   bio              : "Ecologist & researcher studying biodiversity, agriculture, and urban ecology."
